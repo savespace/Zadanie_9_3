@@ -1,0 +1,28 @@
+{
+  "name": "9_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_9_3.git"
+  },
+  "keywords": [
+    "zad9"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_9_3/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_9_3#readme"
+}
