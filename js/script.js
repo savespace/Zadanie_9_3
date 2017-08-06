@@ -2,6 +2,5 @@ var txt = 'Velociraptor is a genus of herbivorous ceratopsid dinosaur that first
 console.log(txt.lenght);
 var dinosaur = 'triceratops';
 var dinosaurUpperCased = dinosaur.toUpperCase();
-console.log(dinosaurUpperCased);
-var txtCharsAfter = txt.replace('Velociraptor', 'dinosaur');
-console.log(txtCharsAfter);
+var txtCharsAfter = txt.replace('Velociraptor', dinosaurUpperCased);
+console.log(txtCharsAfter.substr(0, txtCharsAfter.length / 2));
